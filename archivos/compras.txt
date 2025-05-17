@@ -1,0 +1,4 @@
+2025-05-16 19:57:38 | Producto: Botella con Agua | Precio: $2500 | Ingresado: $2700 | Cambio: $200
+2025-05-16 20:00:34 | Producto: Galleta | Precio: $1200 | Ingresado: $10000 | Cambio: $8800
+2025-05-16 20:04:48 | Producto: Pan | Precio: $900 | Ingresado: $5000 | Cambio: $4100
+2025-05-16 22:33:57 | Producto: Galleta | Precio: $1200 | Ingresado: $5000 | Cambio: $3800
